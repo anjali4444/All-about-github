@@ -2,3 +2,6 @@ This is chat application
 Emoji
 Type option
 colors
+
+Dark mode
+Video call
